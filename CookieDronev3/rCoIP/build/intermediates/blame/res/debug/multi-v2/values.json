@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ProUser/Downloads/CookieDronev3/rCoIP/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/ProUser/Downloads/CookieDronev3/rCoIP/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,7,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "17,60,113,220,263,164",
+                        "endColumns": "42,52,50,42,42,55",
+                        "endOffsets": "55,108,159,258,301,215"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,98,151,202,245,288",
+                        "endColumns": "42,52,50,42,42,55",
+                        "endOffsets": "93,146,197,240,283,339"
+                    }
+                },
+                {
+                    "source": "/Users/ProUser/Downloads/CookieDronev3/rCoIP/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "344,635",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "630,790"
+                    }
+                }
+            ]
+        }
+    ]
+}
